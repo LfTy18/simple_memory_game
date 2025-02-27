@@ -16,17 +16,10 @@
 ### 🚀 **Cara Menjalankan Game**  
 1. Clone repositori ini ke komputer kamu:  
    ```bash
-   git clone https://github.com/username/memory-card-game.git
+   git clone https://github.com/LfTy18/simple_memory_game.git
    ```  
 2. Buka file `index.html` di browser.  
 3. Mulai bermain dan coba ingat posisi kartu! 🎉  
 
-### 📸 **Preview Game**  
-![Memory Game Screenshot](screenshot.png)  
-
 ### 📜 **Lisensi**  
 Proyek ini dibuat untuk tujuan pembelajaran dan bersifat **open-source**. Jangan ragu untuk berkontribusi! 💡  
-
----
-
-Kalau ada tambahan, kasih tahu aja! 🚀😊
